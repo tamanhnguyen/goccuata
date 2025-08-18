@@ -1,9 +1,19 @@
 ---
-layout: blog
-title: Blog
-description: >
-  Latest posts
-cover: true
+layout: null
+permalink: /blog/
 ---
+
+<script>
+  (function(){
+    var home = '{{ "/" | relative_url }}';
+    if (location.pathname !== home) {
+      window.location.replace(home);
+    }
+  })();
+</script>
+<noscript>
+  <meta http-equiv="refresh" content="0; url={{ "/" | relative_url }}">
+  <p>Redirecting to <a href="{{ "/" | relative_url }}">Home</a>…</p>
+</noscript>
 
 
