@@ -1,0 +1,53 @@
+# MÌNH - TÂM ANH (TA) NÈ!
+
+**Link:** https://goccuata.com/minh-ne/
+
+**Author:** admin  
+**Date:** 2021-02-02 03:14:37  
+**Category:** Những điều chưa biết
+
+---
+
+<!-- wp:paragraph -->
+<p>Bạn thân mến, </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Dù bạn là người đã biết mình từ trước hay chỉ là một vị khách xa lạ vô tình ghé qua blog của mình thì trước hết, mình muốn gửi lời cảm ơn chân thành tới bạn vì đã dành thời gian ghé qua. Sau đó, hãy cùng mình tua nhanh một chút về câu chuyện - 23 năm vừa qua của mình và nhờ cơ duyên nào mà mình lại chọn nghề bảo tồn động vật hoang dã (ĐVHD) nha!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Mình sinh ra và lớn lên tại một vùng nông thôn ở phía Bắc của Việt Nam. Cũng giống như bao bạn trẻ khác, 18 năm mình chỉ biết cắm cúi, lao đầu vào những bài thi với mong muốn đạt được kết quả cao và xa hơn là phải đậu đại học vào những trường top để kiếm một công việc tốt. Khi chọn trường cũng chỉ biết chạy theo số đông, đua nhau nộp hồ sơ vào các trường xịn sò như y, dược, an ninh, quân đội...Khi đó, mình còn không biết lâm nghiệp là trường gì chứ huống hồ gì biết tới khái niệm "bảo tồn động vật hoang dã". Nhờ cú sốc đầu đời - không đậu nguyện vọng 1, mình đã biết đến trường Đại học Lâm nghiệp và ngành học Quản lí tài nguyên thiên nhiên. Từ đó, mình đã có cơ hội học tập, gần gũi với thiên nhiên. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Như bạn đã biết, khái niệm về "tài nguyên thiên nhiên" rất rộng, mình lại học về quản lí, thế nên học hết năm 2 ở đại học, mình không biết mình đang học gì. Điều này đã làm mình rất hoang mang và bất mãn trong suốt một thời gian dài. Mình  không biết bản thân mình muốn gì, không biết bản thân mình sẽ đi theo con đường nào. Nói cách khác, khi đó mình là một người không có đam mê. Mình không những trượt dài với thời gian mà còn luẩn quẩn trong một vòng tròn vô định. Quá chán nản khi nhìn thấy sự vô dụng và loay hoay của bản thân, mình quyết định phải bước ra khỏi vùng an toàn (beyond comfort zone) của bản thân, mình phải thử làm bất kì việc gì để tìm ra điều mình thích.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Mình bắt đầu đi làm thêm, rồi đăng kí tham gia câu lạc bộ Tiếng Anh của trường. Thật may mắn, nhờ có câu lạc bộ, mình đã được giao lưu, tiếp cận nhiều điều mới lạ, trong đó có công tác bảo tồn ĐVHD. Chuyến thăm quan Trung tâm cứu hộ gấu Tam Đảo, Vĩnh Phúc là lần đầu tiên mình được tiếp cận với công tác bảo tồn, đồng thời, chuyến đi đã giúp mình thức tỉnh. Những hình ảnh đau thương của các bạn gấu bị đè ra trích lấy mật, những bình rượu ngâm tay gấu cùng với những tiếng gào thét của các bạn gấu chó, gấu ngựa trong các trang trại nuôi nhốt đã ám ảnh mình. Những hình ảnh đó đã bủa vây và thôi thúc mình phải hành động. Sau chuyến thăm, mình bắt đầu tìm hiểu nhiều hơn về công tác bảo tồn, đăng kí làm tình nguyện viên của các tổ chức phi lợi nhuận (NPOs) trong công tác tuyên truyền. Càng tiếp cận mình càng thích thú với công việc bảo tồn đa dạng sinh học và tình yêu dành cho thiên nhiên ngày càng lớn dần.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tình yêu thuở ban đầu đó đã được mình và một vài người bạn gói gọn trong Young Conservationists Club (YCC) (<a href="https://www.facebook.com/YoungConservationistsClub" data-type="URL" data-id="https://www.facebook.com/YoungConservationistsClub">https://www.facebook.com/YoungConservationistsClub</a>). Chúng mình cùng nhau tổ chức, cùng nhau chia sẻ và cùng nhau đoàn kết để dựng xây một mái nhà - nơi lan tỏa tình yêu thiên nhiên đi muôn nơi. Và cùng nhau xây dựng ước mơ trở thành một nhà bảo tồn bản lĩnh và khí chất. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sau khi tốt nghiệp đại học, mình quyết định tiếp tục theo đuổi nghề bảo tồn ĐVHD. Vì muốn bản thân mình có một cái nhìn đa chiều hơn trong nghề, mình đã chọn làm việc tại một Trạm Bảo tồn ĐVHD trong khu vực miền Nam. Một quyết định có vẻ "điên rồ" đối với phần đông. Thế nhưng, đối với mình, sự điên rồ này chính là niềm hạnh phúc vì mình được làm điều mình muốn. Mình giống bạn, chúng ta chỉ là một con cá nhỏ bé giữa một đại dương bao la và việc của chúng ta là bơi. Chúng ta có quyền được làm điều mình muốn, vì vậy đừng bắt mình phải "leo cây" trong khi mình chỉ là "cá".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mỗi câu chuyện, mỗi cuộc gặp gỡ đều có một lý do, niềm vui riêng. Vì vậy, blog goccuata.com được tạo ra vào đúng sinh nhật lần thứ 23 của mình với mục đích để chia sẻ tới các bạn về những câu chuyện liên quan về ngành bảo tồn ĐVHD tại Việt Nam dưới lăng kính của một cô gái đang chập chững bước đi trong nghề. Song song đó, góc nhỏ này cũng là nơi mình chia sẻ về những về chuyến đi, những quyển sách và những chuyện vụn vặt mà mình góp nhặt trong cuộc sống.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hi vọng rằng, những câu chuyện hay những dòng tâm sự của mình khiến bạn và mình lại gần nhau hơn, khiến chúng mình tìm thấy sự đồng điệu trong suy nghĩ. Đặc biệt, đâu đó mình cũng có thể truyền cho bạn một chút niềm tin, một chút lạc quan và một mớ tình yêu thiên nhiên!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thân ái, </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tâm Anh</p>
+<!-- /wp:paragraph -->
