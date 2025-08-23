@@ -48,10 +48,15 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             My Posts
+  - title:             Về TA
     url:               /posts/
-  - title:             About Me
+  - title:             Chuyện Bảo Tồn
     url:               /about/
+  - title:             Chuyện Du Học
+    url:               /about/
+    title:             Chuyện Trải Nghiệm
+    url:               /about/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
