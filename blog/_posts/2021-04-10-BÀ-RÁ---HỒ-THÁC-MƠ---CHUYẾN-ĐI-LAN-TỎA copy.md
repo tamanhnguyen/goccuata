@@ -8,6 +8,8 @@
 
 ---
 
+
+
 <!-- wp:paragraph -->
 <p>Ắt hẳn, đối với những bạn ưa du lịch trải nghiệm thì mỗi chuyến đi sẽ là một bài học, sẽ là những miền kỉ niệm riêng. Mình cũng vậy, một cô gái ưa trải nghiệm, chủ động, mình sẵn sàng xách ba lô đi bất kì cung đường nào mình muốn dù cho nơi đó mình có bạn đồng hành đã quen từ trước hay chỉ là những người xa lạ. Chuyến leo núi Bá Rà là một chuyến đi đã giúp mình thay đổi và chiêm nghiêm ra rất nhiều điều. </p>
 <!-- /wp:paragraph -->
