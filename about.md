@@ -1,6 +1,3 @@
----
-layout: about
-image: /assets/img/blog/hydejack-9.jpg
 Bạn thân mến,
 
 Dù bạn là người đã biết mình từ trước hay chỉ là một vị khách xa lạ vô tình ghé qua blog của mình thì trước hết, mình muốn gửi lời cảm ơn chân thành tới bạn vì đã dành thời gian ghé qua. Sau đó, hãy cùng mình tua nhanh một chút về câu chuyện - 23 năm vừa qua của mình và nhờ cơ duyên nào mà mình lại chọn nghề bảo tồn động vật hoang dã (ĐVHD) nha!
