@@ -89,7 +89,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          https://gallery.yopriceville.com/var/resizes/Backgrounds/Background_with_Summer_Sea.jpg?m=1629826024
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
