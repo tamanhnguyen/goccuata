@@ -40,7 +40,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       goccuata
+    instagram:       goccuata
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -58,7 +58,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        nguyenthitamanh
+    linkedin:        nguyenthitamanh
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
