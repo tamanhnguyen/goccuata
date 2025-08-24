@@ -1,13 +1,5 @@
 # PHẢI LÀM GÌ KHI MUỐN CỨU ĐVHD?
 
-**Link:** https://goccuata.com/phai-lam-gi-khi-muon-cuu-dvhd/
-
-**Author:** admin  
-**Date:** 2021-02-04 15:57:29  
-**Category:** Chuyện bảo tồn
-
----
-
 <!-- wp:paragraph -->
 <p>Trong 1 chuyến đi công tác tới một ngôi chùa, mình có gặp 1 một người dân có ý định muốn bàn giao 1 chú Rùa đất lớn (<em>Heosemys grandis</em>) cho nhà chùa. Chị nói rằng:" Đi đường thấy người ta bán rùa mà thương, bây giờ mình làm ngơ cũng không được, phải năn nỉ họ mới bán cho mình đó em". Sau đó, chị trầm giọng, nói tiếp: "Mua rồi, chị cũng chẳng biết thả ở đâu, chỉ biết đem lên chùa để phóng sinh". Quay sang nói chuyện với thầy chủ trì, thì thầy bảo: "Bây giờ người dân đem lên chùa chẳng lẽ các thầy không nhận, chùa là nơi để dân phóng sinh mà, thôi tiện thể có Chi cục ở đây thì thầy bàn giao luôn". Một lần khác, tại nơi mình làm việc có tiếp nhận một tình nguyện viên tới làm việc. Chị ấy rất vui và hạnh phúc khi tìm thấy được một nơi đang cứu hộ và chăm sóc ĐVHD. Chị có nói với mình rằng: " Vậy sau này, đi đường có thấy ai bán ĐVHD thì chị mua và đem vào đây nha?". Chưa hết, còn một trường hợp này nữa, mình thấy cũng rất phổ biến. Thỉnh thoảng trên các trang mạng xã hội, đặc biệt là facebook thường có hình ảnh ĐVHD, cụ thể nhiều nhất là rùa đang bị bày bán ở ngoài đường. Sau đó, kêu gọi lòng tốt của mọi người tới mua để cứu, thả chúng về với tự nhiên. Điều này đã nhận được sự tán dương từ rất nhiều người.</p>
 <!-- /wp:paragraph -->
