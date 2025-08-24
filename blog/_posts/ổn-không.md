@@ -1,12 +1,4 @@
-# Ổn không?
-
-**Link:** https://goccuata.com/?p=542
-
-**Author:** admin  
-**Date:** 2024-04-04 20:35:28  
-**Category:** Những điều chưa biết
-
----
+# ỔN KHÔNG?
 
 <!-- wp:paragraph -->
 <p>Ổn không? Một câu hỏi rất chi là bình dị nhưng người hỏi nào đâu hay, người trả lời phải suy tư có nên trả lời là KHÔNG hay không. Bởi vì biết rằng, nếu trả lời KHÔNG cũng chỉ khiến người nghe trở nên lo lắng và hụt hẫng. Và rồi sau chiếc màn hình máy tính, người trả lời đành kiềm chế nước mắt và chọn câu trả lời là CÓ. Thà chọn nói dối còn hơn là để nhìn người quan tâm mình phải lo lắng cho mình.</p>
