@@ -17,8 +17,4 @@ Mỗi câu chuyện, mỗi cuộc gặp gỡ đều có một lý do, niềm vui
 Hi vọng rằng, những câu chuyện hay những dòng tâm sự của mình khiến bạn và mình lại gần nhau hơn, khiến chúng mình tìm thấy sự đồng điệu trong suy nghĩ. Đặc biệt, đâu đó mình cũng có thể truyền cho bạn một chút niềm tin, một chút lạc quan và một mớ tình yêu thiên nhiên!
 
 Thân ái,
-
-Tâm Anh
 ---
-
-# About
