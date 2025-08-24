@@ -1,13 +1,5 @@
 # MỘT NGÀY LÀM VIỆC Ở TRUNG TÂM CỨU HỘ SẼ NHƯ THẾ NÀO?
 
-**Link:** https://goccuata.com/mot-ngay-lam-viec-o-trung-tam-cuu-ho-se-nhu-the-nao/
-
-**Author:** admin  
-**Date:** 2021-03-13 02:43:27  
-**Category:** Chuyện bảo tồn
-
----
-
 <!-- wp:paragraph -->
 <p>Mình bắt đầu được tiếp cận với công tác cứu hộ động vật hoang dã vào những ngày cuối tháng 7/2017. Thật lòng mà nói, khi đó mình đi làm tình nguyện viên chỉ vì cái tờ giấy chứng nhận. Chắc chắn rằng, nhiều bạn cũng có suy nghĩ giống mình lúc bấy giờ. Tuy nhiên, 1 tuần được trải nghiệm với công tác chăm sóc rùa tại Trung tâm bảo tồn rùa của Vườn quốc gia Cúc Phương đã mang đến cho mình nhiều điều, đặc biệt là giá trị nhân văn gấp hàng trăm lần giá trị của tờ giấy chứng nhận tham gia hoạt động mà mình thường ao ước khi đó.</p>
 <!-- /wp:paragraph -->
