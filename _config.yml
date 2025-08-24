@@ -53,7 +53,7 @@ menu:
   - title:             Chuyện Bảo Tồn
     url:               /posts/
   - title:             Chuyện Du Học
-    url:               /posts/
+    url:               posts.md
     title:             Chuyện Trải Nghiệm
     url:               /posts/
 
