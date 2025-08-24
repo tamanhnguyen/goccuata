@@ -1,13 +1,5 @@
 # ĐỌC - HIỂU - CHIA SẺ
 
-**Link:** https://goccuata.com/doc-hieu-chia-se/
-
-**Author:** admin  
-**Date:** 2021-02-06 15:40:40  
-**Category:** Chuyện trải nghiệm
-
----
-
 <!-- wp:paragraph {"align":"left"} -->
 <p class="has-text-align-left">Sự xuất hiện của COVID-19 đã biến năm 2020 trở thành một năm đầy biến động với biết bao nhiêu người và mình cũng vậy. Năm 2020 mình đã dành nhiều thời gian để lắng nghe bản thân và học cách tạo niềm vui riêng cho bản thân thay vì ngồi lướt facebook hay những cuộc tán ngẫu hàng giờ đồng hồ cùng lũ bạn. Mình tập lại thói quen viết nhật kí và đọc sách. </p>
 <!-- /wp:paragraph -->
