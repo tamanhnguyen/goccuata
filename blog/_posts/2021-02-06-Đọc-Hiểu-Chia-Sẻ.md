@@ -6,12 +6,6 @@
 
 <!-- wp:paragraph {"align":"left"} -->
 <p class="has-text-align-left">Tạm biệt 2020, chuẩn bị chào đón 2021 tràn đầy hy vọng. Trong kì nghỉ Tết 2021 này, mình cùng cậu em trai đã bắt đầu lên kế hoạch cho một sự thay đổi. Đó là chúng mình đặt sách để đọc trong dịp nghỉ Tết. Nếu như ở thời học sinh, chúng ta học ngữ văn chỉ "đọc - hiểu" và nếu đọc - hiểu tốt thì sẽ đạt điểm cao. Tuy nhiên, sau khi ra trường, việc đọc không còn chỉ dừng lại ở vấn đề hiểu mà bên cạnh đó còn có chia sẻ. "Chia sẻ" chính là một trong những yếu tố quan trọng giúp chúng ta có động lực để đọc. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"center","id":107,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="http://goccuata.com/wp-content/uploads/2021/02/Books-in-a-Shelf-Life-Quotes.png" alt="" class="wp-image-107"/><figcaption>Những đầu sách tụi mình chọn cho Tết 2021</figcaption></figure>
-<!-- /wp:image -->
-
 <!-- wp:paragraph -->
 <p>Mình từng là một đứa rất lười đọc sách, mình cứ cầm quyển sách lên đọc vài trang là y rằng buồn ngủ. Có một thời gian, mình quyết định nghe sách nói. Tuy nhiên, việc hấp thụ của mình qua việc nghe sách nói không khả thi cho lắm. Bên cạnh đó, mình cũng mất khá nhiều thời gian để tìm một giọng đọc mà mình thích. Sau một hồi thử nhiều cách, cuối cùng mình cũng đã tìm ra được phương pháp phù hợp cho bản thân. Mình sử dụng phương pháp kết hợp cả sách giấy và sách nói. Mình đã chọn hai khoảng thời gian hợp lí để mình đọc sách giấy gồm thời gian trước giờ đi ngủ buổi trưa và buổi tối. Còn thời gian nghe sách nói là khi làm việc, khi đi đường...</p>
 <!-- /wp:paragraph -->
